@@ -10,3 +10,7 @@ Answer: Data science could be applied to the educational field. Data science all
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging is when you take branches and you commit them. You can see the history of each of the branches. They can work on different parts and you can see the history of when the came together. Rebasing is when you overwrite the commit history with branches. The timeline of the history is linear from branch to branch. You can't see each histories of the separate branches. 
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to meeting new people and learning new things. I hope I can pick up some skills that I can apply in my summer work or personal projects. I also hope to improve myself mentally and physically. Specifically in this course, I hope to learn more about analyzing databases and making conclusions based on that.  
