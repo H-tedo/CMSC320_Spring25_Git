@@ -6,3 +6,7 @@ Answer: Git is a great tool to learn where we want to collaborate with others in
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to the educational field. Data science allows for the ability to analyze student's data to predict what boosts academic performance. Based on the results, they can optimize the education system to further improve the educational resources. An example would be to see there is data proving chromebooks lead to better test results. The school could then push to have access to chromebooks for all students. 
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging is when you take branches and you commit them. You can see the history of each of the branches. They can work on different parts and you can see the history of when the came together. Rebasing is when you overwrite the commit history with branches. The timeline of the history is linear from branch to branch. You can't see each histories of the separate branches. 
