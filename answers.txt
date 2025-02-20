@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science could be applied to the educational field. Data science allows for the ability to analyze student's data to predict what boosts academic performance. Based on the results, they can optimize the education system to further improve the educational resources. An example would be to see there is data proving chromebooks lead to better test results. The school could then push to have access to chromebooks for all students. 
